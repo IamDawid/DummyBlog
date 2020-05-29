@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\src",
+    "\\src\\actions",
+    "\\src\\actions\\apis",
     "\\src\\components"
   ],
-  "SelectedNode": "\\src\\components\\PostList.js",
+  "SelectedNode": "\\src\\actions\\apis\\jsonPlaceholder.js",
   "PreviewInSolutionExplorer": false
 }
