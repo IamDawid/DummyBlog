@@ -4,8 +4,9 @@
     "\\src",
     "\\src\\actions",
     "\\src\\actions\\apis",
-    "\\src\\components"
+    "\\src\\components",
+    "\\src\\reducers"
   ],
-  "SelectedNode": "\\src\\index.js",
+  "SelectedNode": "\\src\\reducers\\postsReducer.js",
   "PreviewInSolutionExplorer": false
 }
