@@ -7,6 +7,6 @@
     "\\src\\components",
     "\\src\\reducers"
   ],
-  "SelectedNode": "\\src\\reducers\\postsReducer.js",
+  "SelectedNode": "\\src\\components\\UserHeader.js",
   "PreviewInSolutionExplorer": false
 }
