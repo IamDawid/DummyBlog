@@ -1,5 +1,5 @@
 # FakeBlog
-A simple React-Redux app that fetches users and their blogposts from an external fake API. App uses Redux for state management and Redux-Thunk low allow action creators to return functions instead of objects (in this case API calls).
+A simple React-Redux app that fetches users and their blogposts from an external fake API. App uses Redux for state management and Redux-Thunk to allow action creators to return functions instead of objects (in this case API calls).
 
 ## Getting Started
 
